@@ -2,4 +2,4 @@ my:
     greeting: Hello from CS v2
     list: 
         values: One, Two, Three
-msg: From config server app v5
+msg: From config server app v6
